@@ -1,0 +1,33 @@
+body {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 650px;
+}
+img.cover {
+  box-shadow: 5px 5px 10px;
+  color: black;
+}
+body {
+  font-size: 1.2em;
+}
+.bookentry {
+  margin-top: 7em;
+}
+.booktitle {
+  text-align: center;
+  font-size: 1.6em;
+  font-weight: bold;
+}
+.bookcover {
+  text-align: center;
+}
+h1 {
+  margin-top: 1.5em;
+  text-align: center;
+}
+.author-comment {
+  text-align: right;
+}
+li b {
+  color: #202020;
+}
