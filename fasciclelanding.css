@@ -27,6 +27,7 @@ li b {
 }
 .footer {
     text-align: right;
+    padding-left: 1em;
     border-top: thin solid gray;
     padding-top: 3px;
 }
