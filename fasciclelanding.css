@@ -26,22 +26,20 @@ li b {
   color: #202020;
 }
 .footer {
-    text-align: right;
-    padding-left: 1em;
+    text-align: right;    
     border-top: thin solid gray;
     padding-top: 3px;
 }
-
-
+.footer > a {
+  padding-left: 1em;
+}
 a {
     color: purple;
     text-decoration: none;
 }
-
 a:hover {
     text-decoration: underline;
 }
-
 a:visited {
     color: purple;
 }

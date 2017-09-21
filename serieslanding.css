@@ -1,4 +1,6 @@
 body {
+  font-family: Helvetica, Arial, sans-serif;
+  line-height: 1.4;
   margin-left: auto;
   margin-right: auto;
   max-width: 650px;
@@ -6,9 +8,6 @@ body {
 img.cover {
   box-shadow: 5px 5px 10px;
   color: black;
-}
-body {
-  font-size: 1.2em;
 }
 .bookentry {
   margin-top: 7em;
@@ -30,4 +29,22 @@ h1 {
 }
 li b {
   color: #202020;
+}
+.footer {
+    text-align: right;    
+    border-top: thin solid gray;
+    padding-top: 3px;
+}
+.footer > a {
+  padding-left: 1em;
+}
+a {
+    color: purple;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+a:visited {
+    color: purple;
 }
