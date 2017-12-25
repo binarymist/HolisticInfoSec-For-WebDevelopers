@@ -98,7 +98,7 @@ a:visited {
 }
 
 .btn-primary.btn-outline:focus {
-  color: #0095eb;
+  color: #9b6bcc;
   outline: 5px auto -webkit-focus-ring-color;
   outline-color: -webkit-focus-ring-color;
   outline-style: auto;
